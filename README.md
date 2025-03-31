@@ -41,5 +41,6 @@ This project applies **Natural Language Processing (NLP)** techniques to analyze
 
 For a detailed walkthrough of the analysis, view the full presentation:
 [View the full presentation here](Hotel%20Reviews%20NLP%20Presentation.pdf)
+None of the photos in the presentation belong to me.
 
 ### If you have suggestions for enhancing the code or the project overall, please feel free to open an issue or submit a pull request. Your contributions are greatly appreciated!
